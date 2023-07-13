@@ -15,7 +15,7 @@ Utilização de técnicas e boas práticas recomendadas nos tutoriais.
 
 🤝 Contribuições e próximo passo: Como parte da minha jornada de aprendizado, estou aberto a sugestões, feedback e contribuições para melhorar este projeto. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos juntos tornar essa Landing Page ainda mais impressionante!
 
-💻 Aproveite o resultado: Convido você a conferir o resultado final deste projeto, acessando a página de demonstração [inserir link para a página]. Explore, experimente e mergulhe no universo mágico do Disney Plus!
+💻 Aproveite o resultado: Convido você a conferir o resultado final deste projeto, acessando a página de demonstração [patrickgabrielsilva.github.io]. Explore, experimente e mergulhe no universo mágico do Disney Plus!
 
 Divirta-se e compartilhe a magia com o mundo! ✨🎉
 
