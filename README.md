@@ -1,6 +1,6 @@
 🚀 Disney Plus Landing Page ✨
 
-Bem-vindo ao meu repositório da Landing Page do Disney Plus! Este projeto incrível foi desenvolvido com base em tutoriais que me ajudaram a criar uma página inicial inspirada na popular plataforma de streaming Disney Plus.
+Este projeto incrível foi desenvolvido com base em tutoriais que me ajudaram a criar uma página inicial inspirada na popular plataforma da Disney Plus.
 
 🎯 Aprendendo com tutoriais: Durante o projeto, aprendi conceitos essenciais de HTML, CSS e JavaScript seguindo tutoriais detalhados e envolventes. Esses tutoriais foram muito úteis, fornecendo informações valiosas e orientações passo a passo para criar esta Landing Page incrível.
 
