@@ -19,7 +19,11 @@ Utilização de técnicas e boas práticas recomendadas nos tutoriais.
 
 Divirta-se e compartilhe a magia com o mundo! ✨🎉
 
-![image](https://github.com/PatrickGabrielSilva/Landing-Page-DisneyPlus/assets/110678439/79c8c0f7-6860-4bc1-a559-4e65e914fc58)
+![image](https://github.com/PatrickGabrielSilva/patrickgabrielsilva.github.io/assets/110678439/d732f54a-763e-464f-996d-fee7ffb647c9)
 
 
-![image](https://github.com/PatrickGabrielSilva/Landing-Page-DisneyPlus/assets/110678439/92f4dc97-51a3-4eb2-8656-a4b60ef9e311)
+
+![image](https://github.com/PatrickGabrielSilva/patrickgabrielsilva.github.io/assets/110678439/1de7119f-a2ad-4e2e-bfc3-4cd4145274bf)
+
+
+![image](https://github.com/PatrickGabrielSilva/patrickgabrielsilva.github.io/assets/110678439/a60d817d-cca3-4e0d-bda0-f06392392e44)
