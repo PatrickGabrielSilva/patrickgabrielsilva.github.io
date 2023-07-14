@@ -13,12 +13,6 @@ Informações detalhadas sobre o filme em destaque, incluindo classificação, d
 Utilização de técnicas e boas práticas recomendadas nos tutoriais.
 📚 Expandindo meus conhecimentos: Embora eu tenha seguido tutoriais para desenvolver este projeto inicial, pude praticar e consolidar meus conhecimentos em desenvolvimento web. Essa experiência me permitiu aprimorar minhas habilidades e compreender melhor os conceitos fundamentais por trás desta Landing Page interativa.
 
-🤝 Contribuições e próximo passo: Como parte da minha jornada de aprendizado, estou aberto a sugestões, feedback e contribuições para melhorar este projeto. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos juntos tornar essa Landing Page ainda mais impressionante!
-
-💻 Aproveite o resultado: Convido você a conferir o resultado final deste projeto, acessando a página de demonstração [patrickgabrielsilva.github.io]. Explore, experimente e mergulhe no universo mágico do Disney Plus!
-
-Divirta-se e compartilhe a magia com o mundo! ✨🎉
-
 ![image](https://github.com/PatrickGabrielSilva/patrickgabrielsilva.github.io/assets/110678439/d732f54a-763e-464f-996d-fee7ffb647c9)
 
 
@@ -27,3 +21,11 @@ Divirta-se e compartilhe a magia com o mundo! ✨🎉
 
 
 ![image](https://github.com/PatrickGabrielSilva/patrickgabrielsilva.github.io/assets/110678439/a60d817d-cca3-4e0d-bda0-f06392392e44)
+
+
+🤝 Contribuições e próximo passo: Como parte da minha jornada de aprendizado, estou aberto a sugestões, feedback e contribuições para melhorar este projeto. Se você tiver alguma ideia ou sugestão, sinta-se à vontade para abrir uma issue ou enviar um pull request. Vamos juntos tornar essa Landing Page ainda mais impressionante!
+
+💻 Aproveite o resultado: Convido você a conferir o resultado final deste projeto, acessando a página de demonstração [patrickgabrielsilva.github.io]. Explore, experimente e mergulhe no universo mágico do Disney Plus!
+
+Divirta-se e compartilhe a magia com o mundo! ✨🎉
+
