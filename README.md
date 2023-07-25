@@ -1,4 +1,4 @@
-🚀 Disney Plus Landing Page ✨
+🚀 Disney Plus ✨
 
 Este projetofoi desenvolvido com base em tutoriais que me ajudaram a criar uma página inicial inspirada na plataforma da Disney Plus.
 
