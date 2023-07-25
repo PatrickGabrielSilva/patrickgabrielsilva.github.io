@@ -1,6 +1,6 @@
 🚀 Disney Plus ✨
 
-Este projetofoi desenvolvido com base em tutoriais que me ajudaram a criar uma página inicial inspirada na plataforma da Disney Plus.
+Este projeto foi desenvolvido com base em tutoriais que me ajudaram a criar uma página inicial inspirada na plataforma da Disney Plus.
 
 🎯 Aprendendo com tutoriais: Durante o projeto, aprendi conceitos essenciais de HTML, CSS e JavaScript seguindo tutoriais detalhados e envolventes. Esses tutoriais foram muito úteis, fornecendo informações valiosas e orientações passo a passo para criar esse frontend.
 
